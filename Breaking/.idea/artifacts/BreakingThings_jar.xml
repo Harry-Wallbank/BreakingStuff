@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="BreakingThings:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BreakingThings_jar</output-path>
+    <root id="archive" name="BreakingThings.jar">
+      <element id="module-output" name="BreakingThings" />
+      <element id="extracted-dir" path="C:/Users/Public/Engine/jar/windows/Engine.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Users/Public/Engine/jar/windows/gluegen-rt-natives-windows-amd64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Users/Public/Engine/jar/windows/gluegen-rt-natives-windows-i586.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Users/Public/Engine/jar/windows/gluegen-rt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Users/Public/Engine/jar/windows/gson-2.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Users/Public/Engine/jar/windows/jogl-all-natives-windows-amd64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Users/Public/Engine/jar/windows/jogl-all-natives-windows-i586.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Users/Public/Engine/jar/windows/jogl-all.jar" path-in-jar="/" />
+      <element id="library" level="application" name="Engine" />
+    </root>
+  </artifact>
+</component>
